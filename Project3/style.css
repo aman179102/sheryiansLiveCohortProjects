@@ -1,0 +1,46 @@
+.one{
+    color: darkblue;
+    
+}
+
+.two{
+    text-align: center;
+    background-color: blue;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.three{
+    color: darkblue;
+}
+
+p{
+    color: lightblue;
+}
+
+h1,h2{
+    color: darkblue;
+}
+ol,ul{
+    color: darkslateblue;
+}
+
+.foot{
+    text-align: center;
+    color: white;
+    background-color: grey;
+}
+
+div{
+    background-image: url(https://images.unsplash.com/photo-1627637819794-fba32f82be16?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJlbmRlcnxlbnwwfHwwfHx8MA%3D%3D);
+    height: 300px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 350px;
+}
