@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.one{
+    text-align: center;
+    padding: 20px;
+    background-color: grey;
+
+}
+
+.two{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    margin-top: 10px;
+
+}
+
+
+.fone2{
+    margin-top: 16px;
+    margin-left: 10px;
+}
+
+.honet{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.figure{
+    display: flex;
+}
+
+.ftwo{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+img{
+    height: 400px;
+}
+
+.image{
+    margin-left: 50px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 28px;
+    background-color: grey;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
