@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+header{
+    margin-top: 50px;
+    text-align: center;
+}
+
+img{
+    width: 15vw;
+    height: 35vh;
+}
+
+.super{
+    margin-left: 100px;
+    /* margin-top: 50px; */
+}
+
+.super{
+    display: grid;
+    grid-template-columns: repeat(4,3fr);
+}
+
+@media (max-width:768px){
+    .super{
+        display: contents;
+    }
+    img{
+        margin-left: 6vi;
+        width: 85vw;
+    }
+    h3{
+        margin-left: 10vi;
+    }
+    h4{
+        margin-left: 10vi;
+    }
+}
+
+.card{
+    margin-top: 3vi;
+}
+
+.dollar{
+    margin-left: 6vi;
+}
+
+p{
+    margin-top: 2vi;
+    text-align: center;
+    margin-bottom: 2vi;
+}
+
